@@ -1,0 +1,14 @@
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\bin\Debug\net5.0\RepositoryPattern.deps.json
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\bin\Debug\net5.0\RepositoryPattern.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\bin\Debug\net5.0\ref\RepositoryPattern.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\bin\Debug\net5.0\RepositoryPattern.pdb
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\bin\Debug\net5.0\Model.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\bin\Debug\net5.0\Model.pdb
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.csproj.AssemblyReference.cache
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.AssemblyInfoInputs.cache
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.AssemblyInfo.cs
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\obj\Debug\net5.0\ref\RepositoryPattern.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.pdb

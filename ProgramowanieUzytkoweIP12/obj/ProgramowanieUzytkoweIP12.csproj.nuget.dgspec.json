@@ -1,0 +1,360 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\ProgramowanieUzytkoweIP12\\ProgramowanieUzytkoweIP12.csproj": {}
+  },
+  "projects": {
+    "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\CQRS\\CQRS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\CQRS\\CQRS.csproj",
+        "projectName": "CQRS",
+        "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\CQRS\\CQRS.csproj",
+        "packagesPath": "C:\\Users\\lejcz\\.nuget\\packages\\",
+        "outputPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\CQRS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lejcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj": {
+                "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\MediatR\\MediatRCQRS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\MediatR\\MediatRCQRS.csproj",
+        "projectName": "MediatRCQRS",
+        "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\MediatR\\MediatRCQRS.csproj",
+        "packagesPath": "C:\\Users\\lejcz\\.nuget\\packages\\",
+        "outputPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\MediatR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lejcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj": {
+                "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\lejcz\\.nuget\\packages\\",
+        "outputPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lejcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\ProgramowanieUzytkoweIP12\\ProgramowanieUzytkoweIP12.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\ProgramowanieUzytkoweIP12\\ProgramowanieUzytkoweIP12.csproj",
+        "projectName": "ProgramowanieUzytkoweIP12",
+        "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\ProgramowanieUzytkoweIP12\\ProgramowanieUzytkoweIP12.csproj",
+        "packagesPath": "C:\\Users\\lejcz\\.nuget\\packages\\",
+        "outputPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\ProgramowanieUzytkoweIP12\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lejcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\CQRS\\CQRS.csproj": {
+                "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\CQRS\\CQRS.csproj"
+              },
+              "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\MediatR\\MediatRCQRS.csproj": {
+                "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\MediatR\\MediatRCQRS.csproj"
+              },
+              "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj": {
+                "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj"
+              },
+              "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\RepositoryPattern\\RepositoryPattern.csproj": {
+                "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\RepositoryPattern\\RepositoryPattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\RepositoryPattern\\RepositoryPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\RepositoryPattern\\RepositoryPattern.csproj",
+        "projectName": "RepositoryPattern",
+        "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\RepositoryPattern\\RepositoryPattern.csproj",
+        "packagesPath": "C:\\Users\\lejcz\\.nuget\\packages\\",
+        "outputPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\RepositoryPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lejcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj": {
+                "projectPath": "E:\\studia\\PU_Lab1CQRS_Dawid_Lechowski_MIP10\\PULab1CQRS\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

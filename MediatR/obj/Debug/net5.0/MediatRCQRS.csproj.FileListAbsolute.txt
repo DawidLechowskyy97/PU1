@@ -1,0 +1,14 @@
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\obj\Debug\net5.0\MediatRCQRS.csproj.AssemblyReference.cache
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\obj\Debug\net5.0\MediatRCQRS.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\obj\Debug\net5.0\MediatRCQRS.AssemblyInfoInputs.cache
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\obj\Debug\net5.0\MediatRCQRS.AssemblyInfo.cs
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\obj\Debug\net5.0\MediatRCQRS.csproj.CoreCompileInputs.cache
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\bin\Debug\net5.0\MediatRCQRS.deps.json
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\bin\Debug\net5.0\MediatRCQRS.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\bin\Debug\net5.0\ref\MediatRCQRS.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\bin\Debug\net5.0\MediatRCQRS.pdb
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\bin\Debug\net5.0\Model.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\bin\Debug\net5.0\Model.pdb
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\obj\Debug\net5.0\MediatRCQRS.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\obj\Debug\net5.0\ref\MediatRCQRS.dll
+D:\studia_II_stopien\PU\LAB\LAB_1\ProgramowanieUzytkoweIP12\MediatR\obj\Debug\net5.0\MediatRCQRS.pdb
